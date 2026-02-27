@@ -72,7 +72,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="box">
          <img src="images/step-1.png" alt="">
-         <h3>Choose photographer</h3>
+         <h3>Choose photographer which you want</h3>
          <p>Depends On Client.</p>
       </div>
 
