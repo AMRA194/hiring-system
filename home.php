@@ -46,7 +46,7 @@ include 'components/add_cart.php';
          <div class="swiper-slide slide">
             <div class="content">
                <span>Project By</span>
-               <h3>Abdul Rehman</h3>
+               <h3>Amra</h3>
                <a href="menu.php" class="btn">Menu </a>
             </div>
             <div class="image">
