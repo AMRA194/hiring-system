@@ -46,7 +46,7 @@ include 'components/add_cart.php';
          <div class="swiper-slide slide">
             <div class="content">
                <span>Project By</span>
-               <h3>Abdul Rehman</h3>
+               <h3>Amra</h3>
                <a href="menu.php" class="btn">Menu </a>
             </div>
             <div class="image">
@@ -80,7 +80,7 @@ include 'components/add_cart.php';
          <div class="swiper-slide slide">
             <div class="content">
                <span>Hire Online</span>
-               <h3>Event Photographers</h3>
+               <h3>Photographers of Event</h3>
                <a href="menu.php" class="btn">Menu </a>
             </div>
             <div class="image">
@@ -166,7 +166,7 @@ include 'components/add_cart.php';
    </div>
 
    <div class="more-btn">
-      <a href="menu.html" class="btn">Don't Click</a>
+      <a href="menu.html" class="btn">Do not Click</a>
    </div>
 
 </section>
