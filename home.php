@@ -166,7 +166,7 @@ include 'components/add_cart.php';
    </div>
 
    <div class="more-btn">
-      <a href="menu.html" class="btn">Don't Click</a>
+      <a href="menu.html" class="btn">Do not Click</a>
    </div>
 
 </section>
